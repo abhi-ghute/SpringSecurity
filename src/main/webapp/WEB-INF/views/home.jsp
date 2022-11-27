@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1 style="color: green;">You are Authorized !!!!</h1>
-<a href="home">home</a>
+<a href="list">List</a>
 </body>
 </html>

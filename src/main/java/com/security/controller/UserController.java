@@ -10,4 +10,10 @@ public class UserController {
 	public String getUserList() {
 		return "userlist";
 	}
+	
+
+	@GetMapping("/home")
+	public String getHome() {
+		return "home";
+	}
 }

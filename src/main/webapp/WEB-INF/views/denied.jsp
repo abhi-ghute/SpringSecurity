@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1 style="color: green;">You are Authorized !!!!</h1>
+<h1 style="color: red;">You are not Authorized to access !!!!</h1>
 <a href="home">home</a>
 </body>
 </html>
